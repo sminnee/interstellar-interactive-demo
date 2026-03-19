@@ -2,10 +2,7 @@
 
 Static website for the fictional digital agency "Interstellar Interactive".
 
-This site exists as a stable, publicly accessible fixture for web-scraping integration tests in the
-[askastro-bravo](https://github.com/sminnee/askastro-bravo) repository. Tests verify that the
-`fetcher-mcp` service and `ReadWebpagesTool` can successfully fetch and parse real web content
-end-to-end.
+This site exists as a stable, publicly accessible fixture for web-scraping integration tests.
 
 **Live site:** https://sminnee.github.io/interstellar-interactive-demo/
 
